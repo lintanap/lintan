@@ -1,1 +1,31 @@
-# lintan
+Fitur nya :
+
+=Manajemen Pengguna
+
+-Registrasi akun baru
+-Login & Logout
+-Mendukung dua role: User dan Admin
+
+=Keranjang Belanja
+-Menambahkan produk ke keranjang
+-Mengubah jumlah produk
+-Perhitungan subtotal dan total otomatis
+
+=Checkout (Simulasi Pembayaran)
+
+-Validasi stok sebelum transaksi diproses
+-Pengurangan stok dilakukan otomatis
+-Sistem membuat data order dan order item
+
+=Panel Admin
+
+-Menambah produk baru
+-Mengubah data produk
+-Menghapus produk
+-Indikator stok (aman, menipis, atau habis)
+
+=Riwayat Pesanan
+
+-Menampilkan daftar pesanan user
+-Detail item setiap pesanan
+-Status pesanan (disimulasikan sebagai paid)
